@@ -1,0 +1,25 @@
+/*
+    Conteúdo criado com base na explicação do professor Gustavo Guanabara. 
+    YouTube: <https://www.youtube.com/watch?v=xAOBQtSVI_k&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=12>.
+    Para eu poder entender melhor sobre as mesclagens e como resolver conflitos.
+*/
+/* 
+    Created on : May 1, 2021, 1:06:09 PM
+    Author     : Marcelo-San
+*/
+* {
+   font-family: sans-serif;
+   font-size: 16px;
+}
+
+body {
+    background-color: rgb(204, 157, 248);
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 100);
+}
