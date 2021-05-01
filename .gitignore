@@ -1,0 +1,3 @@
+# Ignorando as pastas desnecessárias do Netbeans.
+/test*
+/nbproject*
